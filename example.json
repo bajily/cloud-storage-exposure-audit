@@ -1,0 +1,15 @@
+{
+  "buckets": [
+    {
+      "id": "synthetic-customer-records",
+      "classification": "restricted",
+      "public_read": true,
+      "public_write": false,
+      "encryption": "none",
+      "tls_required": false,
+      "versioning": false,
+      "audit_logging": false,
+      "retention_days": 0
+    }
+  ]
+}
